@@ -1,0 +1,78 @@
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_MIP_Interval                            1
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Tried aggregator 2 times.
+MIP Presolve eliminated 1604 rows and 815 columns.
+MIP Presolve modified 3433 coefficients.
+Aggregator did 48 substitutions.
+Reduced MIP has 3787 rows, 1837 columns, and 15873 nonzeros.
+Reduced MIP has 1738 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (16.37 ticks)
+Found incumbent of value 8.878381 after 0.05 sec. (35.27 ticks)
+Probing time = 0.02 sec. (3.84 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+MIP Presolve modified 2467 coefficients.
+Reduced MIP has 3787 rows, 1837 columns, and 15873 nonzeros.
+Reduced MIP has 1738 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (8.77 ticks)
+Probing time = 0.02 sec. (3.92 ticks)
+Clique table members: 3090.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.03 sec. (10.73 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            8.8784        0.0000           100.00%
+      0     0        5.4621     6        8.8784        5.4621      156   38.48%
+      0     0        5.4717     6        8.8784       Cuts: 5      169   38.37%
+*     0+    0                            5.5627        5.4717             1.64%
+      0     0        5.4872     7        5.5627       Cuts: 6      186    1.36%
+      0     0        cutoff              5.5627        5.5627      186    0.00%
+Elapsed time = 0.33 sec. (113.58 ticks, tree = 0.01 MB, solutions = 2)
+
+Implied bound cuts applied:  1
+Flow cuts applied:  1
+Mixed integer rounding cuts applied:  1
+Lift and project cuts applied:  1
+Gomory fractional cuts applied:  3
+
+Root node processing (before b&c):
+  Real time             =    0.33 sec. (113.75 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.33 sec. (113.75 ticks)
+
+Problem: 
+- Name: 
+  Lower bound: 5.56271043859649
+  Upper bound: 5.56271043859649
+  Number of objectives: 1
+  Number of constraints: 5439
+  Number of variables: 2700
+  Number of binary variables: 2550
+  Number of integer variables: 0
+  Number of continuous variables: 150
+  Number of nonzeros: None
+  Sense: 1
+Solver: 
+- Name: CPLEX 20.1.0.0
+  Status: ok
+  Wallclock time: 0.3414740562438965
+  Termination condition: optimal
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0
+
+x[(0, 34)]=1.0
+x[(33, 49)]=1.0
+x[(34, 33)]=1.0
+r[33]=0.25
+r[34]=0.34187710526315773

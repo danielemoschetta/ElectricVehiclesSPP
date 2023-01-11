@@ -1,0 +1,172 @@
+100 max charging stations returned
+99 aviable charging stations found
+0 - Padova,IT [45.409541, 11.87655]
+1 - A1 AdS Prenestina Est direzione Roma (41.89165, 12.75966) charger type CCS (Type 2) at 95.0 kW
+2 - Piazza di Sant'Emerenziana (41.92944, 12.5162) charger type Type 2 (Socket Only) at 11.0 kW
+3 - Via di Santa Maria Goretti (41.93146, 12.51992) charger type Type 2 (Socket Only) at 11.0 kW
+4 - Via Ugo Ojetti (41.94528, 12.55328) charger type Type 2 (Socket Only) at 11.0 kW
+5 - Piazza Raffaele Casimiri (41.94094, 12.51201) charger type Type 2 (Socket Only) at 11.0 kW
+6 - Via Gerolamo Cardano (41.86363, 12.46889) charger type CCS (Type 2) at 50.0 kW
+7 - Via Ettore Rolli (41.87373, 12.46752) charger type Type 2 (Socket Only) at 11.0 kW
+8 - Via Girolamo Benzoni (41.86983, 12.48442) charger type CCS (Type 2) at 50.0 kW
+9 - Piazza Giovanni Da Verazzano (41.86876, 12.48924) charger type CCS (Type 2) at 50.0 kW
+10 - Via Bartolomeo Diaz (41.87028, 12.49079) charger type CCS (Type 2) at 50.0 kW
+11 - Via Rodrigo De Triana (41.87003, 12.49457) charger type CCS (Type 2) at 50.0 kW
+12 - Via Silvio d'Amico (41.85204, 12.478) charger type CCS (Type 2) at 50.0 kW
+13 - Via Silvio D'Amico (41.85052, 12.48076) charger type CCS (Type 2) at 50.0 kW
+14 - Via Mario Musco (41.85031, 12.48944) charger type CCS (Type 2) at 50.0 kW
+15 - Via Aristide Leonori (41.84994, 12.48725) charger type CCS (Type 2) at 50.0 kW
+16 - Via della Badia di Cava (41.8478, 12.48395) charger type CCS (Type 2) at 50.0 kW
+17 - Via Benedetto Croce (41.84105, 12.4823) charger type CCS (Type 2) at 50.0 kW
+18 - Via Gaetano Trezza (41.8422, 12.4848) charger type CCS (Type 2) at 50.0 kW
+19 - Via Simone Martini (41.82991, 12.48823) charger type CCS (Type 2) at 50.0 kW
+20 - Viale Ignazio Silone (41.81505, 12.48103) charger type Type 2 (Socket Only) at 11.0 kW
+21 - Via Edoardo Amaldi (41.79443, 12.48237) charger type Type 2 (Socket Only) at 11.0 kW
+22 - Viale Tito Labieno (41.85305, 12.56654) charger type CCS (Type 2) at 50.0 kW
+23 - Via dei Noci (41.88315, 12.56552) charger type CCS (Type 2) at 50.0 kW
+24 - Piazza Stefano Jacini (41.94921, 12.46564) charger type Type 2 (Socket Only) at 11.0 kW
+25 - Via Bruino Buozzi ang. Via Gramsci (41.91953, 12.47898) charger type Type 2 (Socket Only) at 11.0 kW
+26 - Via Franscesco D'Ovidio (41.94464, 12.55455) charger type CCS (Type 2) at 50.0 kW
+27 - Via Franco Sacchetti (41.94995, 12.54634) charger type CCS (Type 2) at 50.0 kW
+28 - Via Migiurtinia (41.92999, 12.52211) charger type Type 2 (Socket Only) at 11.0 kW
+29 - Via Valtravaglia (41.94315, 12.51736) charger type Type 2 (Socket Only) at 11.0 kW
+30 - Via di Priscilla (41.93027, 12.50961) charger type CCS (Type 2) at 50.0 kW
+31 - Via Reno (41.91996, 12.506) charger type Type 2 (Socket Only) at 11.0 kW
+32 - BeCharge Fast - Via Enrico Mattei (44.49512, 11.40069) charger type CCS (Type 2) at 95.0 kW
+33 - Estra Via Cupa (43.34312, 11.9156) charger type Type 2 (Socket Only) at 11.0 kW
+34 - Estra Via Corinti (43.35104, 11.9104) charger type Type 2 (Tethered Connector)  at 11.0 kW
+35 - Be Charge Via dell'annunziata (42.74716, 11.86219) charger type Type 2 (Socket Only) at 11.0 kW
+36 - EnelX Via dell'Annunziata (42.74668, 11.86229) charger type Type 2 (Socket Only) at 11.0 kW
+37 - EnelX Cattedrale Santo Sepolcro (42.74307, 11.87046) charger type Type 2 (Tethered Connector)  at 11.0 kW
+38 - Enel X HPC Redicicoli (41.97525, 12.54154) charger type CCS (Type 2) at 95.0 kW
+39 - Enel X Eni (43.81745, 11.22353) charger type CCS (Type 2) at 50.0 kW
+40 - Be Charge Coop (44.51106, 11.46911) charger type Type 2 (Socket Only) at 11.0 kW
+41 - HERA Via Giosuè Carducci (45.39677, 11.87543) charger type Type 2 (Socket Only) at 11.0 kW
+42 - Be Charge PRIX (45.42122, 11.85791) charger type Type 2 (Socket Only) at 11.0 kW
+43 - HERA Via del Cimitero (45.41558, 11.84637) charger type Type 2 (Socket Only) at 11.0 kW
+44 - HERA Via del Cimitero (45.41258, 11.84882) charger type Type 2 (Socket Only) at 11.0 kW
+45 - ENEL X HPC - Q8 Corso Australia (45.43134, 11.8638) charger type CCS (Type 2) at 95.0 kW
+46 - Enel X Leroy Merlin (41.79499, 12.48422) charger type CCS (Type 2) at 50.0 kW
+47 - EnerMia  (43.8457, 10.97672) charger type Type 2 (Socket Only) at 11.0 kW
+48 - Enel X Unieuro (43.89157, 11.01675) charger type Type 2 (Socket Only) at 11.0 kW
+49 - Be Charge Borgonuovo (44.44324, 11.27217) charger type Type 2 (Socket Only) at 11.0 kW
+50 - Be Charge  Fontana (44.38349, 11.23636) charger type CCS (Type 2) at 95.0 kW
+51 - Via XXI aprile 1945 (44.49132, 11.32003) charger type Type 2 (Tethered Connector)  at 11.0 kW
+52 - Be Charge MAST (44.50557, 11.29564) charger type Type 2 (Socket Only) at 11.0 kW
+53 - Volkswagen F.G.Z. Service (44.74659, 11.29667) charger type CCS (Type 2) at 22.0 kW
+54 - Hera Ristorante Tavolamica (44.4928, 11.24977) charger type Type 2 (Socket Only) at 11.0 kW
+55 - Hera Nettuno tennis club (44.49396, 11.3009) charger type Type 2 (Socket Only) at 11.0 kW
+56 - A13 Bentivoglio Est Verso Padova (44.62182, 11.42046) charger type CCS (Type 2) at 95.0 kW
+57 - A13 AdS Bentivoglio Ovest Verso Bologna (44.62263, 11.4192) charger type CCS (Type 2) at 95.0 kW
+58 - A1 AdS Cantagallo Est verso Bologna (44.45712, 11.28109) charger type CCS (Type 2) at 95.0 kW
+59 - A1 AdS Cantagallo Ovest verso Firenze (44.45612, 11.27956) charger type CCS (Type 2) at 95.0 kW
+60 - A1 AdS Badia Ovest verso Firenze (44.15128, 11.19357) charger type CCS (Type 2) at 95.0 kW
+61 - A1AdS Aglio Est verso Bologna (44.02936, 11.22602) charger type CCS (Type 2) at 95.0 kW
+62 - Enel X Osteria Della Pieve (44.52194, 11.41558) charger type Type 2 (Socket Only) at 11.0 kW
+63 - GreenFlux Volvo Car Italia (44.49772, 11.41069) charger type CCS (Type 2) at 95.0 kW
+64 - Be Charge Via Valsugana (45.58632, 11.80633) charger type Type 2 (Socket Only) at 11.0 kW
+65 - Be Charge Via del Donatore (45.59208, 11.80872) charger type Type 2 (Socket Only) at 11.0 kW
+66 - Be Charge Via Stadio (45.52066, 11.70932) charger type Type 2 (Socket Only) at 11.0 kW
+67 - Enel X Centro Servizi Turistici (42.87512, 12.02113) charger type CCS (Type 2) at 95.0 kW
+68 - A13 AdS Adige Ovest (Verso Bologna) (45.04178, 11.70971) charger type CCS (Type 2) at 95.0 kW
+69 - Eurospin Via Padova/Via Romito (44.87692, 11.60419) charger type Type 2 (Socket Only) at 11.0 kW
+70 - Be Charge Via Venezia (45.40963, 11.9049) charger type Type 2 (Socket Only) at 11.0 kW
+71 - A1 AdS Arno Ovest (Verso Roma) (43.6507, 11.46429) charger type CCS (Type 2) at 95.0 kW
+72 - A1 AdS Arno Est (Verso Firenze) (43.58285, 11.5228) charger type CCS (Type 2) at 95.0 kW
+73 - A1 AdS Firenze Nord (Verso Bologna) (43.83569, 11.1601) charger type CCS (Type 2) at 95.0 kW
+74 - Enel X  (44.56267, 11.27221) charger type Type 2 (Socket Only) at 11.0 kW
+75 - HERA parcheggio Fiera - Via Carlo Goldoni (45.41735, 11.89246) charger type CCS (Type 2) at 25.0 kW
+76 - A11 AdS Peretola Sud (Verso Firenze) (43.8186, 11.17258) charger type CCS (Type 2) at 95.0 kW
+77 - Free To X AdS La Pioppa Ovest (44.51834, 11.21431) charger type CCS (Type 2) at 95.0 kW
+78 - Enel X Stazione di Calderara-Bargellino (44.54256, 11.26838) charger type Type 2 (Socket Only) at 11.0 kW
+79 - ENEL X IKEA PADOVA (45.41865, 11.93466) charger type CCS (Type 2) at 50.0 kW
+80 - Area di servizio Casilina interna (41.87676, 12.60729) charger type CCS (Type 2) at 95.0 kW
+81 - Enel X AdS Casilina Esterna (41.87382, 12.60694) charger type CCS (Type 2) at 95.0 kW
+82 - Enel X  Funo (44.59482, 11.37047) charger type CCS (Type 2) at 50.0 kW
+83 - Terre di Nano | GM Green Solution ® (43.07549, 11.74002) charger type Type 2 (Socket Only) at 11.0 kW
+84 - Volksvagen Balduina (41.85401, 12.54429) charger type CCS (Type 2) at 95.0 kW
+85 - Audi Roma (41.93529, 12.59857) charger type CCS (Type 2) at 95.0 kW
+86 - Audi Zentrum Casalecchio (44.48841, 11.26497) charger type CCS (Type 2) at 95.0 kW
+87 - Hera  (44.50122, 11.33018) charger type Type 2 (Socket Only) at 11.0 kW
+88 - Be Charge Stazione (44.3952, 11.25516) charger type Type 2 (Socket Only) at 11.0 kW
+89 - Hera Centro sportivo Giancarlo Melotti Ponte Ronca (44.50132, 11.18836) charger type Type 2 (Socket Only) at 11.0 kW
+90 - Area di servizio Po Est (44.87916, 11.57095) charger type CCS (Type 2) at 95.0 kW
+91 - Area di Servizio Po Ovest (44.88022, 11.56908) charger type CCS (Type 2) at 95.0 kW
+92 - Volvo car (44.84911, 11.58936) charger type CCS (Type 2) at 95.0 kW
+93 - Free To X AdS Giove Ovest (42.49928, 12.31107) charger type CCS (Type 2) at 95.0 kW
+94 - Free To X AdS La Pioppa Est (44.5196, 11.21371) charger type CCS (Type 2) at 95.0 kW
+95 - Be Charge  (45.06396, 11.79468) charger type Type 2 (Socket Only) at 11.0 kW
+96 - Hera Pilastro (44.51164, 11.39057) charger type Type 2 (Socket Only) at 11.0 kW
+97 - Be Charge Parco dei Cedri (44.4734, 11.3998) charger type Type 2 (Socket Only) at 11.0 kW
+98 - Enel X Eni (44.47331, 11.40077) charger type CCS (Type 2) at 50.0 kW
+99 - NaturaSi parking lot (45.41131, 11.86331) charger type Type 2 (Socket Only) at 11.0 kW
+100 - Roma,IT [41.890525, 12.494225]
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_MIP_Interval                            -1
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Tried aggregator 2 times.
+MIP Presolve eliminated 10882 rows and 5446 columns.
+MIP Presolve modified 9645 coefficients.
+Aggregator did 99 substitutions.
+Reduced MIP has 10319 rows, 5060 columns, and 44190 nonzeros.
+Reduced MIP has 4859 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (49.62 ticks)
+Found incumbent of value 8.853035 after 0.11 sec. (95.39 ticks)
+Probing time = 0.02 sec. (4.86 ticks)
+Cover probing fixed 0 vars, tightened 1 bounds.
+Tried aggregator 1 time.
+Detecting symmetries...
+MIP Presolve modified 7490 coefficients.
+Reduced MIP has 10319 rows, 5060 columns, and 44190 nonzeros.
+Reduced MIP has 4859 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (23.86 ticks)
+Probing time = 0.02 sec. (5.05 ticks)
+Clique table members: 5039.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.03 sec. (40.05 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            8.8530        0.0000           100.00%
+*     0     0      integral     0        5.1808        5.1808      375    0.00%
+Elapsed time = 0.25 sec. (204.41 ticks, tree = 0.00 MB, solutions = 2)
+
+Root node processing (before b&c):
+  Real time             =    0.26 sec. (204.99 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.26 sec. (204.99 ticks)
+
+Problem:
+- Name:
+  Lower bound: 5.180833333333333
+  Upper bound: 5.180833333333333
+  Number of objectives: 1
+  Number of constraints: 21300
+  Number of variables: 10605
+  Number of binary variables: 10302
+  Number of integer variables: 0
+  Number of continuous variables: 303
+  Number of nonzeros: None
+  Sense: 1
+Solver:
+- Name: CPLEX 20.1.0.0
+  Status: ok
+  Wallclock time: 0.2682011127471924
+  Termination condition: optimal
+Solution:
+- number of solutions: 0
+  number of solutions displayed: 0
+
+x[(0, 60)]=1.0
+x[(60, 67)]=1.0
+x[(67, 100)]=1.0
+r[60]=0.25000000000000006
+r[67]=0.25

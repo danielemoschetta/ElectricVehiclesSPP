@@ -1,0 +1,63 @@
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_MIP_Interval                            1
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Tried aggregator 2 times.
+MIP Presolve eliminated 1627 rows and 750 columns.
+MIP Presolve modified 449522 coefficients.
+Aggregator did 473 substitutions.
+Reduced MIP has 453414 rows, 226302 columns, and 2028950 nonzeros.
+Reduced MIP has 225353 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 3.19 sec. (4252.09 ticks)
+Found incumbent of value 2.356667 after 5.64 sec. (6040.57 ticks)
+Probing time = 2.33 sec. (115.05 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+MIP Presolve modified 375073 coefficients.
+Reduced MIP has 453414 rows, 226302 columns, and 2028950 nonzeros.
+Reduced MIP has 225353 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 2.39 sec. (1188.97 ticks)
+Probing time = 1.66 sec. (107.57 ticks)
+Clique table members: 429082.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 9.95 sec. (2347.34 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            2.3567        0.0000           100.00%
+      0     0        cutoff              2.3567                   1210    0.00%
+
+Root node processing (before b&c):
+  Real time             =   24.64 sec. (12709.59 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =   24.64 sec. (12709.59 ticks)
+
+Problem: 
+- Name: 
+  Lower bound: 2.356666666666667
+  Upper bound: 2.356666666666667
+  Number of objectives: 1
+  Number of constraints: 455514
+  Number of variables: 227525
+  Number of binary variables: 226100
+  Number of integer variables: 0
+  Number of continuous variables: 1425
+  Number of nonzeros: None
+  Sense: 1
+Solver: 
+- Name: CPLEX 20.1.0.0
+  Status: ok
+  Wallclock time: 24.647918939590454
+  Termination condition: optimal
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0
+
+x[(0, 474)]=1.0

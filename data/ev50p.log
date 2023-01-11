@@ -1,0 +1,64 @@
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_MIP_Interval                            1
+CPXPARAM_MIP_Tolerances_MIPGap                   0
+Tried aggregator 2 times.
+MIP Presolve eliminated 1834 rows and 922 columns.
+MIP Presolve modified 3682 coefficients.
+Aggregator did 50 substitutions.
+Reduced MIP has 3981 rows, 1940 columns, and 16724 nonzeros.
+Reduced MIP has 1837 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (17.36 ticks)
+Probing time = 0.02 sec. (3.89 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+MIP Presolve modified 2433 coefficients.
+Reduced MIP has 3981 rows, 1940 columns, and 16724 nonzeros.
+Reduced MIP has 1837 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (9.41 ticks)
+Probing time = 0.05 sec. (3.98 ticks)
+Clique table members: 3768.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.02 sec. (10.15 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0    infeasible                                        112         
+
+Root node processing (before b&c):
+  Real time             =    0.20 sec. (77.47 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.20 sec. (77.47 ticks)
+WARNING: Loading a SolverResults object with a warning status into
+    model.name="unknown";
+      - termination condition: infeasible
+      - message from solver: <undefined>
+
+Problem: 
+- Name: 
+  Lower bound: None
+  Upper bound: None
+  Number of objectives: 1
+  Number of constraints: 5865
+  Number of variables: 2912
+  Number of binary variables: 2756
+  Number of integer variables: 0
+  Number of continuous variables: 156
+  Number of nonzeros: None
+  Sense: 1
+Solver: 
+- Name: CPLEX 20.1.0.0
+  Status: warning
+  Wallclock time: 0.2012341022491455
+  Termination condition: infeasible
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0
+

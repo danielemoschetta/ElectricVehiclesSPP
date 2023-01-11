@@ -1,0 +1,17 @@
+{
+    "instance_name": "default",
+    
+    "max_chargers" : 50,
+    "origin" : "Padova,IT",
+    "destination" : "Roma,IT",
+    "max_capacity" : 57.5,
+    "start_capacity" : 57.5,
+    "autonomy" : 380.0,
+    "std_type" : "IEC 62196-2",
+    "std_power" : 11.0,
+    "fast_type" : "IEC 62196-3 Configuration FF",
+    "fast_power" : 95.0,
+    "min_charge_time" : 0.25,
+    "max_charge_time" : 0.75,
+    "max_drive_time" : 2
+}
